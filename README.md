@@ -27,4 +27,6 @@ kubectl get pods -o wide
 ```bash
 kubectl get svc
 ```
-
+```bash
+https://medium.com/@resha.yudiatama/install-k3s-dan-deploy-wordpress-1540218fe813
+```
